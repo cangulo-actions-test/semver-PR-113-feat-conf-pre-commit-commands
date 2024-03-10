@@ -1,0 +1,5 @@
+precommitcommands:
+  enabled: true
+  commands:
+    - echo "test"
+    - ls
